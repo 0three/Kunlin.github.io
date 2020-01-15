@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% ../files/KunlinLiu_CV.pdf %}
 
 Education
 ======
@@ -39,7 +38,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% files/KunlinLiu_CV.pdf %}
   {% endfor %}</ul>
   
 Talks
