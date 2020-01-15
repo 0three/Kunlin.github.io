@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% ../files/KunlinLiu_CV.pdf %}
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
+* B.S. in USTC, 2018
+* M.S. in USTC, expected 2021
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
 Work experience
